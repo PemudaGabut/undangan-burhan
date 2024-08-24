@@ -1,5 +1,5 @@
 :root {
-    --blue: #87CEEB;
+    --blue: #376a7e;
     --bg: #0a0a0a;
     --shadow: 0 2px 2px rgb(0 0 0/0.6);
 }
@@ -35,7 +35,7 @@ body {
 }
 
 .hero h1 {
-    font-family: "Sacramento", cursive;
+    font-family: "Dancing+Script", cursive;
     font-size: 4rem;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .mynavbar .navbar-brand, 
 .mynavbar .offcanvas-title {
-    font-family: "Sacramento", cursive;
+    font-family: "Dancing+Script", cursive;
     font-size: 3.2rem;
     font-weight: bold;
 }
@@ -112,7 +112,7 @@ body {
 .rsvp h2,
 .gifts h2 {
     color: var(--blue);
-    font-family: "Sacramento";
+    font-family: "Dancing+Script";
     font-size: 5rem;
     font-weight: bold;
     text-shadow: var(--shadow);
@@ -134,7 +134,7 @@ body {
 }
 
 .home .couple h3 {
-    font-family: 'Sacramento';
+    font-family: 'Dancing+Script';
     font-size: 2.4rem;
     color: var(--blue);
 }
