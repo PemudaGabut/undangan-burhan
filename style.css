@@ -99,7 +99,7 @@ body {
 }
 
 .home {
-    background-image: #F8F6F4;
+    background-color: #F8F6F4;
     background-size: cover;
     min-height: 100vh;
     margin-top: -5rem;
