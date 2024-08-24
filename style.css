@@ -98,7 +98,7 @@ body {
 }
 
 .home {
-    background-image: url(img/bg\ 1.jpg);
+    background-image: #F8F6F4;
     background-size: cover;
     min-height: 100vh;
     margin-top: -5rem;
@@ -161,7 +161,7 @@ body {
 }
 
 .info {
-    background-color: #fdf7e9;
+    background-color: #E3F4F4;
     color: white;
     padding-top: 10rem;
     padding-bottom: 8rem;
@@ -217,7 +217,7 @@ body {
 .story {
 padding-top: 10rem;
 padding-bottom: 8rem;
-background-color: #fdfaf1;
+background-color: #D2E9E9;
 }
 
 .gallery,
@@ -376,7 +376,7 @@ padding-bottom: 8rem;
 }
 
 .rsvp {
-    background-color: #fbf2db;
+    background-color: #C4DFDF;
 }
 
 .rsvp h2 {
@@ -404,7 +404,7 @@ padding-bottom: 8rem;
 }
 
 .gifts {
-    background-color: #faefd4;
+    background-color: #C4DFDF;
 }
 
 footer {
